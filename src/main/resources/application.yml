@@ -1,0 +1,8 @@
+app:
+  crazy-air-host: "http://localhost:8085/crazy-air"
+  tough-jet-host: "http://localhost:8085/tough-jet"
+  use-crazy-air: true
+  use-tough-jet: true
+  timeout-duration: 30s
+  max-results: 50
+  retry-attempts: 3

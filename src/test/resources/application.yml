@@ -1,0 +1,5 @@
+app:
+  crazy-air-host: "http://localhost:8085/crazy-air"
+  tough-jet-host: "http://localhost:8085/tough-jet"
+  use-crazy-air: false
+  use-tough-jet: false
